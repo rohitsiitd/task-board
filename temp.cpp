@@ -4,3 +4,6 @@ int main(){
     cout<<"hello world";
     return 0;
 }
+void fun(){
+    
+}
